@@ -16,6 +16,9 @@ The link to the application is: https://netflix-fe-clone.web.app/
 
 ![screenshot 1](https://user-images.githubusercontent.com/81175325/186024594-164c802f-0acf-468c-969e-90f1a2725e86.JPG)
 
+## Profile Screen
+
+![screenshot 4](https://user-images.githubusercontent.com/81175325/186025032-dd406cbc-dbdd-4066-974a-03ad8dcf120b.JPG)
 
 # Getting Started with Create React App and Redux
 
