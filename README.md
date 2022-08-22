@@ -4,7 +4,7 @@ This is a clone of the Netflix application (without being able to watch the movi
 
 The link to the application is: https://netflix-fe-clone.web.app/
 
-## Sign Up Screen
+## Sign Ip Screen
 
 ![screenshot 3](https://user-images.githubusercontent.com/81175325/186024788-61a80110-35a2-42db-9376-c3426c6e1d75.JPG)
 
