@@ -1,3 +1,10 @@
+# Netflix clone application
+
+This is a clone of the Netflix application (without being able to watch the movies...). The project was an frontend excercise, it is made with React and Redux. The data is taken from an API from TMDB (The movie database), and there is firebase authentication, so anyone can create an account with their e-mail.
+
+The link to the application is: https://netflix-fe-clone.web.app/
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
