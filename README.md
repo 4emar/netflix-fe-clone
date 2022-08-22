@@ -4,9 +4,18 @@ This is a clone of the Netflix application (without being able to watch the movi
 
 The link to the application is: https://netflix-fe-clone.web.app/
 
+## Sing Up Screen
+
+![screenshot 2](https://user-images.githubusercontent.com/81175325/186024921-c9dbf8c0-452d-404c-a9de-8c48d121431f.JPG)
+
 ## Sign Ip Screen
 
 ![screenshot 3](https://user-images.githubusercontent.com/81175325/186024788-61a80110-35a2-42db-9376-c3426c6e1d75.JPG)
+
+## Home Screen
+
+![screenshot 1](https://user-images.githubusercontent.com/81175325/186024594-164c802f-0acf-468c-969e-90f1a2725e86.JPG)
+
 
 # Getting Started with Create React App and Redux
 
